@@ -1,0 +1,1 @@
+components.posts-card<?php /**PATH /Users/zeyadehab/blog/storage/framework/views/e81e09e23012533df56fe77e652b3eaa997f6ffc.blade.php ENDPATH**/ ?>
